@@ -1,0 +1,136 @@
+2023-07-22 10:57:56 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 10:58:55 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 11:03:25 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 11:05:14 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 11:48:03 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 11:48:46 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 13:32:04 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 14:19:21 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 14:59:40 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 15:39:59 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 16:31:17 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-22 17:11:32 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-23 06:26:54 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-23 08:42:10 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-23 09:22:28 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-23 10:03:14 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
+2023-07-23 10:43:32 - Error occurred:
+Traceback (most recent call last):
+  File "C:\Users\kesha\Documents\JobSearch\Summer23\WebScraper\main.py", line 10, in run_script
+    subprocess.run(["./venv/Scripts/python", "./VisaResheduler.py"], check=True)
+  File "C:\Users\kesha\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['./venv/Scripts/python', './VisaResheduler.py']' returned non-zero exit status 1.
+
